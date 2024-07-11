@@ -1,4 +1,4 @@
-### Prodigy Info Tech - Software Development Intern - Task 5
+# Prodigy Info Tech - Software Development Intern - Task 5
 
 ## Web Scraping
 Program that extracts product information, such as names, prices, ratings, description from FlipKart website and stores the data in a CSV file format.
@@ -9,7 +9,7 @@ URL = "https://www.flipkart.com/search?q=mobiles+under+50000&otracker=search&otr
 Above url represents the first page of the category mentioned among thousands of pages.
 One can shift to other pages under same category by simply entering the page number in the above url.
 
-# Technologies Used
+### Technologies Used
 - Python 3.12.4
 - Visual Studio Code
   
