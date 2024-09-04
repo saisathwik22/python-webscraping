@@ -1,7 +1,7 @@
-# Prodigy Info Tech - Software Development Intern - Task 5
+# Python - Web Scraping
 
-## Web Scraping
-Program that extracts product information, such as names, prices, ratings, description from Flipkart website and stores the data in a CSV file format.
+
+- Program that extracts product information, such as names, prices, ratings, description from Flipkart website and stores the data in a CSV file format.
 
 This program extracts data of Flipkart's mobiles under 50K.
 
